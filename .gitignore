@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+out/
+# 本地迭代过程中的旧版分类器，不纳入仓库
+classify.py
+classify2.py
+classify3.py
+classify4.py
